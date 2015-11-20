@@ -4,7 +4,7 @@ Author: Shawn S. Feng
 
 Date created: 2015-11-20
 
-Latest updated: 2015-11-20
+Last updated: 2015-11-20
 
 Description: 
 1. This is a personal project
