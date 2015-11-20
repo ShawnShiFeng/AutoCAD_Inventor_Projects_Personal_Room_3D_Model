@@ -4,8 +4,23 @@ Author: Shawn S. Feng
 
 Date created: 2015-11-20
 
-Description: This is a personal project. I need to build a shelf that can be sliced through the gap between the desk and the wall, because
-the desk I have right now is not deep enough, and I don't have room to study after I put a monitor on the desk. 
-In order to do so, I learned to use AutoCAD by myself, and I used that knowledge to create a 3D model for my current rental room, and
-based on the model, I can create a drawing for the shelf, and make sure that everything is perfect and fit before I started to buy any 
-materials. 
+Latest updated: 2015-11-20
+
+Description: 
+1. This is a personal project
+
+2. The purpose for this project is to assit myself design and build a shelf that can be placed between the wall and the other side of 
+   my desk
+
+3. The reason of building this shelf is because 
+
+            a. my current desk is not deep enough after having a monitor sitting on top of it
+            b. the gap space only can hold objects that have 9 inch or less in depth, and most shelves sold on the market are too deep
+
+4. Procedure
+
+            a. create a 3D environment and furnitures that goes inside of it
+            b. design a shelf, and try to place it at the spot that I would put it in the real senario
+            c. if everything worked fine, then I will generate an engineering drawing based on the model, and start to purchase building 
+               materials
+            d. build it!
